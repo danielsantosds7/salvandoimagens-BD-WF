@@ -1,0 +1,24 @@
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\bin\Debug\SalvandoImagens_BD_SQLServer.exe.config
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\bin\Debug\SalvandoImagens_BD_SQLServer.exe
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\bin\Debug\SalvandoImagens_BD_SQLServer.pdb
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.Form1.resources
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.exe
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.pdb
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\bin\Debug\Imagens.mdf
+C:\Users\Daniel\Desktop\Salvando imagens no banco de dados\SalvandoImagens_BD_SQLServer\bin\Debug\Imagens_log.ldf
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\bin\Debug\SalvandoImagens_BD_SQLServer.exe.config
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\bin\Debug\SalvandoImagens_BD_SQLServer.exe
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\bin\Debug\SalvandoImagens_BD_SQLServer.pdb
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.csproj.AssemblyReference.cache
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.Form1.resources
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.Properties.Resources.resources
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.csproj.GenerateResource.cache
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.exe
+C:\Users\10795484674\Downloads\drive-download-20230213T113947Z-001\SalvandoImagensWF_BD_SQLServer\obj\Debug\SalvandoImagens_BD_SQLServer.pdb
